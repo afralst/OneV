@@ -25,7 +25,7 @@ nav:
 
     - {title: ARCHIVE | 編年, description: ARCHIVE, url: /archive}
 
-    - {title: KEYWORDS | 搜尋, description: KEYWORDS, url: /tags}
+    - {title: TAGS | 話題, description: KEYWORDS, url: /tags}
 
 # Pagination
 plugins: [jekyll-paginate]
