@@ -1,10 +1,10 @@
 nav {
-  display: inline-block;
+  display: block;
   position: relative;
 }
 
 .navigation {
-  display: inline-block;
+  display: block;
   float: left;
   position: relative;
   margin: 0;
@@ -12,7 +12,7 @@ nav {
 }
 
   .navigation__item {
-    display: inline-block;
+    display: block;
     margin: 5px 1px 0 0;
     line-height: 1em;
 
