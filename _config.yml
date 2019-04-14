@@ -5,7 +5,7 @@ welcome_message: 可以用html超文本code编辑格式?
 description: My Memory Pocket
 creator: 可以用html超文本code编辑格式?
 
-url: "https://onevcat.com"
+url: https://afralst.github.io/OneV/
 
 permalink: /:year/:month/:title/
 
@@ -16,13 +16,13 @@ highlighter: rouge
 cover_color: red
 
 blog_button:
-    title: 博客
-    description: 访问博客
+    title: Home
+    description: Home
 
 nav:
-    - {title: AA1, description: AA1-DES, url: '//onev.cat'}
-    - {title: AA2, description: AA2-DES, url: '/apps'}
-    - {title: AA3, description: AA3-DES, url: '//objccn.io/subscribe'}
+    - {title: AA1, description: AA1-DES, url: /TAGS}
+    - {title: AA2, description: AA2-DES, url: /ARCHIVE}
+    - {title: AA3, description: AA3-DES, url: '/ABOUT}
 
 # Pagination
 plugins: [jekyll-paginate]
