@@ -24,7 +24,7 @@ nav:
     - {title: ABOUT | 關於, description: ABOUT, url: /about}
 
     - {title: ARCHIVE | 編年, description: ARCHIVE, url: /archive}
-    
+
     - {title: KEYWORDS | 搜尋, description: KEYWORDS, url: /tags}
 
 # Pagination
@@ -42,7 +42,7 @@ social:
     # github: username
     # twitter: username
     # gplus: username
-    # mail: afra.liust@gmail.com
+    mail: afra.liust@gmail.com
 
 # Google Analytics
 ga:
