@@ -1,0 +1,47 @@
+# Basic
+title: Afra's
+subtitle: 上善若水，人淡如菊
+welcome_message: 可以用html超文本code编辑格式?
+description: My Memory Pocket
+creator: 可以用html超文本code编辑格式?
+
+url: "https://onevcat.com"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: red
+
+blog_button:
+    title: 博客
+    description: 访问博客
+
+nav:
+    - {title: AA1, description: AA1-DES, url: '//onev.cat'}
+    - {title: AA2, description: AA2-DES, url: '/apps'}
+    - {title: AA3, description: AA3-DES, url: '//objccn.io/subscribe'}
+
+# Pagination
+plugins: [jekyll-paginate]
+paginate: 20
+paginate_path: "page/:num/"
+
+# Comment
+comment:
+    # disqus: username
+    # duoshuo:
+# Social
+social:
+    # weibo: username
+    # github: username
+    # twitter: username
+    # gplus: username
+    # mail: afra.liust@gmail.com
+
+# Google Analytics
+ga:
+   # id: UA-xxxxxxxx-x
+   # host: xxxxx.com
