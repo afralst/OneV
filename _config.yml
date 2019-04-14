@@ -1,8 +1,8 @@
 # Basic
 title: Memory Pocket
-subtitle: Ideas, Conversations, Stuff, Life.
+subtitle: 
 welcome_message: 
-description: My Memory Pocket
+description: Ideas, Conversations, Stuff, Life.
 creator: Afra L.
 
 url: https://afralst.github.io/              # your host, for absolute URL
@@ -17,13 +17,13 @@ highlighter: rouge
 cover_color: 
 
 blog_button:
-    title: Home
+    title: Home | 主頁
     description: Home
 
 nav:
-    - {title: AA1, description: AA1-DES, url: /TAGS}
-    - {title: AA2, description: AA2-DES, url: /ARCHIVE}
-    - {title: AA3, description: AA3-DES, url: /ABOUT}
+    - {title: ABOUT | 關於, description: ABOUT, url: /ABOUT}
+    - {title: ARCHIVE | 編年, description: ARCHIVE, url: /ARCHIVE}
+    - {title: KEYWORDS | 搜尋, description: KEYWORDS, url: /TAGS}
 
 # Pagination
 plugins: [jekyll-paginate]
