@@ -22,7 +22,7 @@ blog_button:
 nav:
     - {title: AA1, description: AA1-DES, url: /TAGS}
     - {title: AA2, description: AA2-DES, url: /ARCHIVE}
-    - {title: AA3, description: AA3-DES, url: '/ABOUT}
+    - {title: AA3, description: AA3-DES, url: /ABOUT}
 
 # Pagination
 plugins: [jekyll-paginate]
