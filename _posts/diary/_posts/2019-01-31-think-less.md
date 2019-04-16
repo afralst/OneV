@@ -2,6 +2,7 @@
 layout: post
 title: Do More and Think Less
 tags: [Daily Life]
+date: 2019-01-31 23:00
 comments: true
 ---
 

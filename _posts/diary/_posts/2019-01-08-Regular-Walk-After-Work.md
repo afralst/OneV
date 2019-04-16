@@ -2,6 +2,7 @@
 layout: post
 title: A regular walk after work
 tags: []
+date: 2019-01-08 23:00
 comments: true
 ---
 \~18°C

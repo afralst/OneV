@@ -2,9 +2,9 @@
 layout: post
 title: An Ending-approaching Gathering
 tags: []
+date: 2019-01-09 23:00
 comments: true
 ---
-
 \~18°C
 
 1.  Got up (\~8:20 am). Picked light grey color socks with white

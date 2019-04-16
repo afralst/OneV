@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Team Dinner, Ostrich meat
+date: 2019-01-10 23:00
 tags: []
 ---
-
 \~20°C
 
 ![](https://cdn-images-1.medium.com/max/800/1*1B4CscopJCWbOOR-v349ww.jpeg)

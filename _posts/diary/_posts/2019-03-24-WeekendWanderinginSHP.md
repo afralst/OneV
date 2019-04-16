@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekend Wandering in Sham Shui Po
+date: 2019-03-24 23:00
 tags:  [HK, Photos]
 ---
 
