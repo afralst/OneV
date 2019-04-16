@@ -1,0 +1,24 @@
+---
+layout: page
+title: Archive
+permalink: /archive/
+---
+
+<div class="main-post-list">
+  <ol class="post-list">
+    {% for post in site.posts %}
+    <li>
+      <!-- draw post start -->
+      <a href="{{ post.url }}" title="Visit {{ post.title }}">
+        <time datetime="{{page.date | date: date_to_xmlschema}}" itemprop="datePublished" class="post-meta__date date">{{post.date | date: "%F"}}</time>
+      </a>
+      <a href="{{ post.url }}" title="Visit {{ post.title }}">
+        {{ post.title }}
+      </a>
+      <!-- finished  -->
+    </li>
+    {% endfor %}
+  </ol>
+
+
+</div>

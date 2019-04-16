@@ -9,7 +9,7 @@ permalink: /about/
 I would like to gather records for my own review and sharing with the readers, from career-related learnings, news of innovation about sustainability and urban development, to personal travels and the smallest serendipities in life. I will try my best to categorize posts with clear filing for ease of reading/filing.
 
 
-#ABOUT THE WRITER
+#ABOUT ME
 
 I believe that each person is versatile with complex and sometimes paradoxical thoughts, and difficult to be summarised in a limited linguistic context. Yet, here you can find some facts that probably tell something about me, and even relatable to you:
 

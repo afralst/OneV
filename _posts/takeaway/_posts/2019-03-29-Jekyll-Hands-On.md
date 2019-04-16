@@ -22,12 +22,13 @@ comments: true
 ##**2. Choice of Theme Base**
 
 * [Jekyll Now](https://www.jekyllnow.com/), 簡約設計+傻瓜式套用，非常適合小白我，在最初給了我繼續探索下去的信心
-* [Hydejack](https://hydejack.com/), 讓我不禁感歎一個blog的前端原來有這麼多花樣可以玩，而且還用freemium模式把pro版賣的比我一餐飯還貴，🤯前路漫漫
+* [Hydejack](https://hydejack.com/), 讓我不禁感歎一個blog的前端原來有這麼多花樣可以玩，而且還用freemium模式把pro版賣的比我一餐飯還貴，🤯前路漫漫。
+* [OneV's Den](https://onevcat.com/), 搜尋中文字體支持的時候無意中撞到，一個學霸碼農的博客。Layout類似hydejack，細節上各有春秋。不知是否和文化有關，OneV的代碼對小白的我來看，比HJ邏輯清楚易理解得多。
 
 ##**3. Fonts**
 
 * [Jekyll博客的中文支持](http://longqian.me/2017/02/12/jekyll-support-chinese/)
-*  
+*  Google Fonts
 
 ##**4. Customization of Interface**
 
