@@ -2,6 +2,7 @@
 layout: post
 title: Mocha, Soymilk
 tags: []
+category: Diary
 date: 2019-01-03 23:00
 comments: true
 ---

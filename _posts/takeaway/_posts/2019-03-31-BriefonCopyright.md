@@ -2,6 +2,7 @@
 layout: post
 title: Brief Discussion on Copyright Issue
 tags: [Copyright]
+category: takeaway
 comments: true
 ---
 

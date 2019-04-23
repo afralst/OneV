@@ -2,6 +2,7 @@
 layout: post
 title: Is Law School a Losing Game?
 tags: [reading,haha-life!]
+category: takeaway
 comments: true
 ---
 

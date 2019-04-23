@@ -2,6 +2,7 @@
 layout: post
 title: Life in a Metropolis
 tags: [City, Choice]
+category: takeaway
 comments: true
 ---
 

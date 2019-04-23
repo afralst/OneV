@@ -2,6 +2,7 @@
 layout: post
 title: Future of technology?
 tags: [digital]
+category: takeaway
 comments: true
 ---
 

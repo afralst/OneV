@@ -2,6 +2,7 @@
 layout: post
 title: Self Notes on Jekyll Hands-On
 tags: [Jekyll]
+category: takeaway
 comments: true
 ---
 

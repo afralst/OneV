@@ -24,7 +24,7 @@ nav:
     - {title: Home | 主頁, description: Home, url: /#blog}
     - {title: ABOUT | 關於, description: ABOUT, url: /about}
     - {title: ARCHIVE | 編年, description: ARCHIVE, url: /archive}
-    - {title: TAGS | 話題, description: KEYWORDS, url: /tags}
+ #   - {title: TAGS | 話題, description: KEYWORDS, url: /tags}
 
 # Pagination
 plugins: [jekyll-paginate]

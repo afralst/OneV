@@ -2,6 +2,7 @@
 layout: post
 title: Team Dinner, Ostrich meat
 date: 2019-01-10 23:00
+category: Diary
 tags: []
 ---
 \~20°C

@@ -7,17 +7,17 @@
 
         <!-- title -->
         <h1 class="panel-cover__title panel-title">
-          <a href="/#blog" title="link to homepage for {{ site.title }}" class="blog-button">
+          <a href="/" title="link to homepage for {{ site.title }}" class="blog-button">
             {{ site.title }}
           </a>
         </h1>
-        
+
         <!-- sub title -->
         {% if site.subtitle %}
-        <span class="panel-cover__subtitle panel-subtitle" >{{site.subtitle}}</span>
+        <span class="panel-cover__subtitle panel-subtitle">{{site.subtitle}}</span>
         {% endif %}
 
-        <br/>
+        <br />
         <!-- 
         Line divider if necessary
         <hr class="panel-cover__divider" />
@@ -38,8 +38,8 @@
             <nav class="cover-navigation cover-navigation--primary">
               <ul class="navigation" style="display:flex;float: none;flex-direction: column;align-items: center">
                 {% for item in site.nav %}
-                <li class="navigation__item"><a href="{{item.url}}" target="_blank"
-                    title="{{item.description}}">{{item.title}}</a></li>
+                <li class="navigation__item">
+                  <a href="{{item.url}}" title="{{item.description}}" id="{{item.description}}">{{item.title}}</a></li>
                 {% endfor %}
               </ul>
             </nav>

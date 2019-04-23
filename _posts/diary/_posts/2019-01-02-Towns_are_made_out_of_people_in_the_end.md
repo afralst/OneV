@@ -3,6 +3,7 @@ layout: post
 title: Towns are made out of people in the end.
 tags: []
 date: 2019-01-02 23:00
+category: Diary
 comments: true
 ---
 \~15°C

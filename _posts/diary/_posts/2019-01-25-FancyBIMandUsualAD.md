@@ -3,6 +3,7 @@ layout: post
 title: A fancy BIM seminar and an usual AD
 tags: [Daily Life]
 date: 2019-01-25 23:00
+category: Diary
 comments: true
 ---
  

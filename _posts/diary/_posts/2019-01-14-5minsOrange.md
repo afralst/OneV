@@ -3,6 +3,7 @@ layout: post
 title: Five Minutes with an Orange
 tags: []
 date: 2019-01-14 23:00
+category: Diary
 comments: true
 ---
 

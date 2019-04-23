@@ -3,6 +3,7 @@ layout: post
 title: An Ending-approaching Gathering
 tags: []
 date: 2019-01-09 23:00
+category: Diary
 comments: true
 ---
 \~18°C

@@ -2,6 +2,7 @@
 layout: post
 title: Be Concrete When Experissing Ideas
 tags: [Writing]
+category: takeaway
 comments: true
 ---
 

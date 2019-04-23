@@ -2,6 +2,7 @@
 layout: post
 title: Walk after Ceremony in Convertion Centre
 tags: [ICE, Daily Life]
+category: takeaway
 comments: true
 ---
 

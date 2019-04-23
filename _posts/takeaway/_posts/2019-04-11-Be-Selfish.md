@@ -2,6 +2,7 @@
 layout: post
 title: Be Selfish
 tags: [Mindset]
+category: takeaway
 comments: true
 ---
 
