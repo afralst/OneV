@@ -27,3 +27,9 @@ Most of vocab belows are from [The Critic As Artist by Oscar Wilde](http://www.w
 * censure
 
 * flippant
+
+* thorn
+* barren
+> From the field in which he thought that he had sown __thorns__, we have gathered our vintage, and the fig-tree that he planted for our pleasure is as barren as the thistle, and more bitter.
+
+* conscience

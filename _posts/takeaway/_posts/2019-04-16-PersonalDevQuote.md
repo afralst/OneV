@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Personal Choices and Directions
+title: Charisma
 date: 2019-04-16 23:52:17 +09:00
-tags: [writing, life]
+tags: [takeaway, life]
 category: takeaway
 comments: true
 ---
